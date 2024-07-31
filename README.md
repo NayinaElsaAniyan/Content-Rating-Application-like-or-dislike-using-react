@@ -1,1 +1,1 @@
-# Content-Rating-Application-like-or-dislike-using-react
+# coding-project-template
