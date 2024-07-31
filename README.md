@@ -10,9 +10,6 @@ A React application that allows users to rate content with "like" or "dislike" b
 - **Total Ratings**: Displays the total number of ratings (likes + dislikes).
 - **Highest Number Display**: Shows which type of rating (likes or dislikes) has the highest count.
 
-## Getting Started
-
-To get a local copy of the project up and running, follow these instructions.
 
 ### Prerequisites
 
